@@ -4,7 +4,9 @@ background-color: rgb(192, 2, 252);
 
 #dog {
   float:right;
+  margin-right: 75px;
 }
 #selfie {
   float:left;
+  margin-left: 75px;
 }
