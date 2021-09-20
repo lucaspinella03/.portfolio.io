@@ -2,13 +2,6 @@ body {
 background-color: rgb(192, 2, 252);
 }
 
-bannerPic {
-margin-right: 50px;
-}
-
-headingOne {
-margin-right: 30px;
-}
-table {
-margin-right: 30px;
+aboutButton{
+  margin-right: 6px;
 }
