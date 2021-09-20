@@ -2,3 +2,9 @@ body {
 background-color: rgb(192, 2, 252);
 }
 
+#dog {
+  float:right;
+}
+#selfie {
+  float:left;
+}
